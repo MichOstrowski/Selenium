@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "nqI7No04SOyQpm4p8BrTe/tf4c0YsZRrVBvkJzyl5rOQy0NBpzDWoEyh+uW3nFidAHnt0owKgSY2WrTv3hbTlg==",
+  "success": true,
+  "projectFilePath": "D:\\n_repo\\ProjektZYT\\ProjektZYT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dziaba\\.nuget\\packages\\microsoft.codecoverage\\17.2.0\\microsoft.codecoverage.17.2.0.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\microsoft.net.test.sdk\\17.2.0\\microsoft.net.test.sdk.17.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.2.0\\microsoft.testplatform.objectmodel.17.2.0.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\microsoft.testplatform.testhost\\17.2.0\\microsoft.testplatform.testhost.17.2.0.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\Dziaba\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
